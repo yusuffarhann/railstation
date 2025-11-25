@@ -1,0 +1,4 @@
+name: Railstation
+routes:
+  - path: /
+    port: 80
